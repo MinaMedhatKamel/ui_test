@@ -1,0 +1,4 @@
+#Tue Jun 22 15:10:20 EET 2021
+base.0=C\:\\my_drive\\vezeeta\\testing_projects\\espresso\\Emoji-Calculator-Project-Files\\Emoji Calculator Project Files\\final\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

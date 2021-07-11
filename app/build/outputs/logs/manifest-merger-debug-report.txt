@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\10d6b7a8fa597e47b8dc855d726ddba2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\7460e4f13290b5d24feae66be1d10317\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a3962c5268b727a15a89684b19c92836\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\89d6bcebf914122087dd13eb28165cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\5d62192479aca301bd1f1b30a957d43e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5d14632c0bfdb13d046f77b5ffffec04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6c3da5d3a90ce02e5e7cd8eed2665038\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\96cd465a2771d18f9697f2d62c79575b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1cc252f1bd61c1351bb15b27e07dd1c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\53a95af0d96e749ff5027c4bced47ac3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5a1ca48bc63c640f9f3d3c3e296af24a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7d68c14d90514cb20551a07434beacef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\daa47bd22b43388d2f6c288a598b97c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\abc481265cd3bd9f9e89caa1f44e9f97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\249c13ee1954052fea15c5325c2748b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\77dd2b7ff27d06cb6e14af19541d6f95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\efb3a8f58364721c305fe62b7d88a66b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\21a12c09614253c4bf80e4b40138bae9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b6ce77884d15ca9d0c22adb4abae3284\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\96a0bb16867610659a6db5b8062525e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\508c195e0b882834e072e5c8472c5549\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\31519e3120067b989f4aab9e5b63179b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\75b012d4d3930730279d755af0aa8135\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c982340d8196bd29b18b7bdbb14aed8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41cdd6fbb53a9f4b0ab68b0ff8445b78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c1e0c790154f1578db60cdd39ca3f41f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\95ab9d7942263530390fe5c8a1944940\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d15dbcbbb1bc19bdce81fc80605870dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eef9cf589a54acb6ba687fb8fe7162be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7adb9dd752bb3342bfd2f3aff0ec9056\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:11-62
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:5:3-24:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\10d6b7a8fa597e47b8dc855d726ddba2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\10d6b7a8fa597e47b8dc855d726ddba2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\7460e4f13290b5d24feae66be1d10317\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\7460e4f13290b5d24feae66be1d10317\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b6ce77884d15ca9d0c22adb4abae3284\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b6ce77884d15ca9d0c22adb4abae3284\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:11:7-38
+activity#com.raywenderlich.android.emojicalculator.SplashActivity
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:14:15-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.emojicalculator.MainActivity
+ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml:23:15-84
+uses-sdk
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\10d6b7a8fa597e47b8dc855d726ddba2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\10d6b7a8fa597e47b8dc855d726ddba2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\7460e4f13290b5d24feae66be1d10317\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\7460e4f13290b5d24feae66be1d10317\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a3962c5268b727a15a89684b19c92836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a3962c5268b727a15a89684b19c92836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\89d6bcebf914122087dd13eb28165cd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\89d6bcebf914122087dd13eb28165cd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\5d62192479aca301bd1f1b30a957d43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\5d62192479aca301bd1f1b30a957d43e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5d14632c0bfdb13d046f77b5ffffec04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5d14632c0bfdb13d046f77b5ffffec04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6c3da5d3a90ce02e5e7cd8eed2665038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6c3da5d3a90ce02e5e7cd8eed2665038\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\96cd465a2771d18f9697f2d62c79575b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\96cd465a2771d18f9697f2d62c79575b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1cc252f1bd61c1351bb15b27e07dd1c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1cc252f1bd61c1351bb15b27e07dd1c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\53a95af0d96e749ff5027c4bced47ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\53a95af0d96e749ff5027c4bced47ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5a1ca48bc63c640f9f3d3c3e296af24a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5a1ca48bc63c640f9f3d3c3e296af24a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7d68c14d90514cb20551a07434beacef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7d68c14d90514cb20551a07434beacef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\daa47bd22b43388d2f6c288a598b97c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\daa47bd22b43388d2f6c288a598b97c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\abc481265cd3bd9f9e89caa1f44e9f97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\abc481265cd3bd9f9e89caa1f44e9f97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\249c13ee1954052fea15c5325c2748b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\249c13ee1954052fea15c5325c2748b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\77dd2b7ff27d06cb6e14af19541d6f95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\77dd2b7ff27d06cb6e14af19541d6f95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\efb3a8f58364721c305fe62b7d88a66b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\efb3a8f58364721c305fe62b7d88a66b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\21a12c09614253c4bf80e4b40138bae9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\21a12c09614253c4bf80e4b40138bae9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\5bd1bc7f398f35d1bcf2e8116e6bd177\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b6ce77884d15ca9d0c22adb4abae3284\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b6ce77884d15ca9d0c22adb4abae3284\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\96a0bb16867610659a6db5b8062525e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\96a0bb16867610659a6db5b8062525e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\508c195e0b882834e072e5c8472c5549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\508c195e0b882834e072e5c8472c5549\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\31519e3120067b989f4aab9e5b63179b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\31519e3120067b989f4aab9e5b63179b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\75b012d4d3930730279d755af0aa8135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\75b012d4d3930730279d755af0aa8135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c982340d8196bd29b18b7bdbb14aed8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c982340d8196bd29b18b7bdbb14aed8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41cdd6fbb53a9f4b0ab68b0ff8445b78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41cdd6fbb53a9f4b0ab68b0ff8445b78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c1e0c790154f1578db60cdd39ca3f41f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c1e0c790154f1578db60cdd39ca3f41f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\95ab9d7942263530390fe5c8a1944940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\95ab9d7942263530390fe5c8a1944940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d15dbcbbb1bc19bdce81fc80605870dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d15dbcbbb1bc19bdce81fc80605870dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eef9cf589a54acb6ba687fb8fe7162be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eef9cf589a54acb6ba687fb8fe7162be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7adb9dd752bb3342bfd2f3aff0ec9056\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MinaMedhat\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\7adb9dd752bb3342bfd2f3aff0ec9056\AndroidManifest.xml:20:5-44
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		ADDED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\my_drive\vezeeta\testing_projects\espresso\Emoji-Calculator-Project-Files\Emoji Calculator Project Files\final\app\src\main\AndroidManifest.xml
